@@ -1,0 +1,25 @@
+.userKeyboard {
+    width: 80%;
+    margin: auto;
+    background-color: black;
+    height: 40%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+.keysDiv{
+    height: 90%;
+    width: 100%;
+    padding: 3px;
+    box-sizing: border-box;
+}
+.key {
+    width: 25%;
+    height: 33.33%;
+}
+.screen{
+    height: 10%;
+    width: 80%;
+    background-color: white;
+    margin: auto;
+    padding: 3px;
+}
